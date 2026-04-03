@@ -16,7 +16,7 @@ const slugHeroImages: Record<string, { src: string }> = {
   "real-estate-photography": realEstateHeroImg,
 };
 
-const mediaProductionVideo = "/myv.mp4";
+const mediaProductionVideo = "/media.mp4";
 const podcastStudioVideo = "/podcast.mp4";
 const contentCreationVideo = "/content.mp4";
 
@@ -930,7 +930,7 @@ export default function ServicePageContent({ service }: { service: ServiceData }
             fallback="#ffffff"
             opacity={100}
             overlayOpacity={0.22}
-            rotate={service.slug === "media-production" ? -90 : 0}
+            rotate={0}
             shift={0}
           />
         )}

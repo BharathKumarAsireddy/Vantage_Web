@@ -47,7 +47,7 @@ export const PremiumHero = () => {
         playsInline
         preload="auto"
         className="absolute inset-0 z-0 w-full h-full object-cover"
-        src="/myvideo_compressed.mp4"
+        src="/marina.mp4"
       />
 
       {/* Dark overlay — keeps text readable over the video */}

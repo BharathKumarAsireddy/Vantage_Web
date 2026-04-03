@@ -126,7 +126,7 @@ export const servicesData: ServiceData[] = [
     heroClosing: "We don't just shoot content. We engineer perception.",
     accent: "#C9A84C",
     accentSecondary: "#e8d070",
-    heroVideo: pv(3195394),
+    heroVideo: "/media.mp4",
     system: {
       title: "Authority-Driven Media Production",
       bullets: [
@@ -155,7 +155,7 @@ export const servicesData: ServiceData[] = [
     heroClosing: "We don't create content for likes — we create content for leverage.",
     accent: "#1A6B3C",
     accentSecondary: "#25A047",
-    heroVideo: pv(3045925, 25),
+    heroVideo: "/content.mp4",
     system: {
       title: "Content Engine",
       bullets: [
@@ -183,7 +183,7 @@ export const servicesData: ServiceData[] = [
     heroClosing: "Turn conversations into content. Turn content into influence. Turn influence into revenue.",
     accent: "#C9A84C",
     accentSecondary: "#e8d070",
-    heroVideo: pv(3044943),
+    heroVideo: "/podcast.mp4",
     system: {
       title: "Authority-Driven Media Production",
       bullets: [
